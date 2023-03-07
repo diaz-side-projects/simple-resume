@@ -131,6 +131,27 @@ padding-top: 40px;
     font-size: 18px;
     color: rgb(240, 245, 251);
 }
+.download{
+    margin-top: 50px;
+}
+ .download li {
+     list-style-type: none;
+ }
+ 
+.download .download-btn {
+     background-color: white;
+     color: black;
+     border-radius: 15px;
+     width: 50px;
+     align-items: center;
+     font-size: 15px;
+     text-decoration: none;
+     padding: 5px;
+ }
+ 
+ .download .download-btn:hover {
+     background-color: rgb(149, 149, 149);
+ }
 
 /*****------------ Profile Section --------**********/
 
@@ -170,6 +191,7 @@ p{
     background: rgb(255, 255, 255);
     padding: 40px;
 }
+
 
 /*****------------ Media Query Section --------**********/
 
